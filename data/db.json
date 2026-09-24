@@ -1,0 +1,93 @@
+{
+  "clients": [],
+  "inquiries": [
+    {
+      "id": "53235c38-f597-4cf9-88aa-1b9334488253",
+      "createdAt": "2026-09-24T21:17:34.148Z",
+      "source": "contact-form",
+      "name": "Heet Shah",
+      "company": "HAT",
+      "email": "heetshah318@gmail.com",
+      "phone": "8149621665",
+      "project_type": "",
+      "budget": "",
+      "details": ""
+    }
+  ],
+  "languages": [
+    {
+      "id": "a9244aed-e3bd-4835-8cef-811033547dbb",
+      "name": "React",
+      "category": "Frontend",
+      "note": ""
+    },
+    {
+      "id": "6790d153-c5ba-447e-b4f6-582708544c48",
+      "name": "Next.js",
+      "category": "Frontend",
+      "note": ""
+    },
+    {
+      "id": "f785dbf2-63c7-463c-85f4-e0d8a3d9d3f9",
+      "name": "Tailwind CSS",
+      "category": "Frontend",
+      "note": ""
+    },
+    {
+      "id": "2e97bcee-042a-4f13-972e-58fddebd0284",
+      "name": "Node.js",
+      "category": "Backend",
+      "note": ""
+    },
+    {
+      "id": "88768d26-403b-4b03-ac67-1ed711f67302",
+      "name": "Express",
+      "category": "Backend",
+      "note": ""
+    },
+    {
+      "id": "68f63d3e-6ff1-4eb1-a5ea-59d3f8a4c0af",
+      "name": "MongoDB",
+      "category": "Database",
+      "note": ""
+    },
+    {
+      "id": "fcc1f9a8-4d8f-4d17-bfae-d751367520dd",
+      "name": "PostgreSQL",
+      "category": "Database",
+      "note": ""
+    }
+  ],
+  "services": [
+    {
+      "id": "103e563b-bb5c-4cb3-95b6-37d9b12b9e4b",
+      "name": "Business Websites",
+      "description": ""
+    },
+    {
+      "id": "536614eb-dd24-4add-b370-b997f99eefe8",
+      "name": "E-Commerce",
+      "description": ""
+    },
+    {
+      "id": "6a1305e1-283c-484f-b65c-cce46ef8d2d5",
+      "name": "SaaS Platforms",
+      "description": ""
+    },
+    {
+      "id": "f645c780-bf73-40b6-ab5a-c2102670d2bf",
+      "name": "Web Applications",
+      "description": ""
+    },
+    {
+      "id": "dc9aa961-7273-41e2-bdaa-cb41aa619e83",
+      "name": "Custom Software",
+      "description": ""
+    },
+    {
+      "id": "700583fb-f277-449b-a9c8-760120a11cba",
+      "name": "Admin Dashboards",
+      "description": ""
+    }
+  ]
+}
